@@ -8,3 +8,8 @@
 
 依赖:
     python3
+    pypdf2
+    tesseract-ocr(pip install git+https://github.com/jflesch/pyocr.git)
+    Pillow
+    pyocr
+    wand
